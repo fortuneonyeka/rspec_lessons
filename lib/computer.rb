@@ -11,4 +11,3 @@ class Computer
     false
   end
 end
-  
